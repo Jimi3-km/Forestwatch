@@ -1,0 +1,9 @@
+{
+  "name": "ForestWatchAI",
+  "description": "An advanced environmental intelligence dashboard that analyzes satellite data, IoT sensor readings, and community reports to detect forest threats like fires and illegal logging in real-time, generating structured alerts and health summaries.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
