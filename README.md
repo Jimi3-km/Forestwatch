@@ -22,7 +22,11 @@
 
 - **Pitch Deck (PDF):** `  [Presentation - eOS (1).pdf](https://github.com/user-attachments/files/23701263/Presentation.-.eOS.1.pdf)
 
-- **Demo Video (2–3 min):** `[ADD_LINK_HERE]`  
+- **Demo Video (2–3 min):** ``  
+
+https://github.com/user-attachments/assets/77472ce9-f17c-45d4-8b37-800db1702e35
+
+
 - MVP prototype: https://ai.studio/apps/drive/1NEftWR9H_0M2eLyMrXYEl3onpOVIly7z  
 
 ---
