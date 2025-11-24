@@ -20,7 +20,7 @@
 
 **Submission Assets**
 
-- **Pitch Deck (PDF):** `[./ForestWatch_eOS_Track_Forest_WMH2025.pdf](https://www.canva.com/design/DAG5bKdSbSY/kp5-3Ws1a8dp3JEGFQ5kPQ/edit?utm_content=DAG5bKdSbSY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)`  
+- **Pitch Deck (PDF):** `[./ForestWatch_eOS_Track_Forest_WMH2025.pdf](https://www.canva.com/design/DAG5bKdSbSY/kp5-3Ws1a8dp3JEGFQ5kPQ/edit?utm_content=DAG5bKdSbSY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]`  
 - **Demo Video (2–3 min):** `[ADD_LINK_HERE]`  
 - MVP prototype: https://ai.studio/apps/drive/1NEftWR9H_0M2eLyMrXYEl3onpOVIly7z  
 
